@@ -1,0 +1,19 @@
+{
+  "name": "omm-project",
+  "version": "1.0.0",
+  "description": "a starter set-up",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannak016/omm-project.git"
+  },
+  "author": "hanna.kong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannak016/omm-project/issues"
+  },
+  "homepage": "https://github.com/hannak016/omm-project#readme"
+}
