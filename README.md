@@ -13,15 +13,16 @@
     * React
     
 * workflow:
- * sketch frontend pages
- * design backend structure
-  * model
-  * SPA object-planning for entities(in our case:users/memes)
-  * REST API
-   * design the logic for slashing around
-   * set up endpoints
- * authentication
- * authorization
+ 1. sketch frontend pages
+ 2. design backend structure
+  2.1 model
+  2.2 SPA object-planning for entities(in our case:users/memes)
+  2.3 REST API
+   2.3.1 design the logic for slashing around
+   2.3.2 set up endpoints
+ 3. authentication
+ 4. authorization
+ 5....
       
 
 ## Backend--Server
