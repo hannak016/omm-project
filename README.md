@@ -48,11 +48,11 @@
 
 * create new cluster
 
-  ---
+* ...
 
 * 10 mins later
 
-  ---
+* ...
 
 * add a user for this cluster (attention: not the one with which you logged in)
 
