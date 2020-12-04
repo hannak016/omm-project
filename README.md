@@ -16,13 +16,14 @@
 
 ## Backend--Server
 
-check : server/server.md
+check : backend/server/server.md
 
 ## Backend--Database
 
-check : database/database.md
+check : backend/database/database.md
 
 
 
 ## Frontend
 
+check : frontend/frontend.md
